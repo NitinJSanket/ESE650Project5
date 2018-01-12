@@ -1,7 +1,7 @@
 # Feasible Path Planning for Cars and Pedestrians using Imitation Learning
 
 ## Problem Statement
-Given data from a LIDAR make a 2D map of the environment using particle filter. Also use the RGBD data to obtain a birds eye view of the texture and 3D map.
+Learn Cost Maps for feasible paths for cars and pedestrians using imitation of an oracle.
 
 ## Usage Guide:
 1. Run `WrapperCar.m` for running Test Script for Car Planner.
